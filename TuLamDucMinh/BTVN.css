@@ -1,0 +1,47 @@
+﻿.logo {
+    float: left;
+    display: inline-block;
+    padding-top: 2px;
+    text-decoration: none;
+    color: darkgray;
+    margin-top: -30px;
+    margin-left: 35px;
+}
+
+.right {
+    float: right;
+    padding-top: 2px;
+    margin-top: -30px;
+}
+
+.MoiNhat {
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    padding: 3px;
+    border: solid 2px darkgrey;
+}
+
+.Inter {
+    text-decoration: none;
+    color: black;
+    padding: 3px;
+    border: solid 2px darkgrey;
+}
+
+.right li {
+    display: inline;
+    padding-top: 19px;
+    padding-bottom: 22px;
+    height: 100px;
+}
+
+.TimKiem {
+    padding: 3px;
+}
+
+.DangNhap {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
